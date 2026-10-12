@@ -24,28 +24,6 @@
 
 <br/>
 
-## Featured Project
-
-<div align="center">
-
-### [Orbit 1.0](https://github.com/mananbharti/Orbit-1.0)
-
-Control your computer from your phone, privately. Pair with a QR code, then run AI agent tasks, sync the clipboard, move files, launch apps and dictate text over a certificate-pinned local connection. Nothing goes through a cloud relay.
-
-![Status](https://img.shields.io/badge/status-early%20alpha-EC4899?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-6366F1?style=for-the-badge&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-A78BFA?style=for-the-badge&logo=expo&logoColor=white)
-![Node](https://img.shields.io/badge/Node-06B6D4?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![License](https://img.shields.io/badge/license-Apache--2.0-D946EF?style=for-the-badge)
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mananbharti/Orbit-1.0)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
-
 ## Profile Summary
 
 <div align="center">
