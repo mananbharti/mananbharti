@@ -163,17 +163,6 @@
 <img src="https://leetcard.jacoblin.cool/manan-bharti?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="55%" />
 </div>
 
-
-<br/><br/>
-
-**Now Playing (Spotify)**
-
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=1e1b2e&interchange=true" alt="Spotify Now Playing" />
-</div>
-
-<sub>— requires a free deploy of <code>novatorem/spotify-github-profile</code></sub>
-
 </details>
 
 <br/>
