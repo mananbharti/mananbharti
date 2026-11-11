@@ -128,6 +128,8 @@
 
 <img src="https://raw.githubusercontent.com/mananbharti/mananbharti/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="90%" />
 
+</div>
+
 
 
 ## Contribution Snake
